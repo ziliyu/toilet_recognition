@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wash</folder>
+	<filename>846.jpg</filename>
+	<path>D:\datajihe\wash\846.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wash</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>23</ymin>
+			<xmax>505</xmax>
+			<ymax>502</ymax>
+		</bndbox>
+	</object>
+</annotation>
